@@ -3,7 +3,7 @@ import sys
 
 
 CAR_MODEL = "Land cruiser"  
-API_KEY = "NKrK6avMGDR0HgfjbxUlLg3OFzy0ardiUkOYC6RV" 
+API_KEY = "insert API key" 
 
 # 2. API ENDPOINT
 API_URL = "https://api.api-ninjas.com/v1/cars"
